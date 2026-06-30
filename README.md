@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0074-search-a-2d-matrix) |
 | [0219-contains-duplicate-ii](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0219-contains-duplicate-ii) |
 | [0704-binary-search](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0875-koko-eating-bananas) |
 ## Two Pointers
 |  |
 | ------- |
