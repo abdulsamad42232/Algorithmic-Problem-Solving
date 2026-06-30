@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0219-contains-duplicate-ii](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0219-contains-duplicate-ii) |
 | [0704-binary-search](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0875-koko-eating-bananas) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0875-koko-eating-bananas) |
 ## Two Pointers
