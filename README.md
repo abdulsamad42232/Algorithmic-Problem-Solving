@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0042-trapping-rain-water) |
+| [0074-search-a-2d-matrix](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0074-search-a-2d-matrix) |
 | [0219-contains-duplicate-ii](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0219-contains-duplicate-ii) |
 | [0704-binary-search](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0704-binary-search) |
 ## Hash Table
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0042-trapping-rain-water) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
