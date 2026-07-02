@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0219-contains-duplicate-ii) |
 ## Sliding Window
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0042-trapping-rain-water) |
+| [0141-linked-list-cycle](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0141-linked-list-cycle) |
 ## Greedy
 |  |
 | ------- |
@@ -51,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0074-search-a-2d-matrix) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
