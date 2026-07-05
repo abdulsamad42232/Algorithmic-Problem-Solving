@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0219-contains-duplicate-ii) |
 ## Sliding Window
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0202-happy-number) |
 ## Greedy
 |  |
 | ------- |
@@ -57,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0141-linked-list-cycle) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
