@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -63,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0202-happy-number) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
