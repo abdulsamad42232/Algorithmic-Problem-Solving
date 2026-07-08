@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0202-happy-number) |
 ## Greedy
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
