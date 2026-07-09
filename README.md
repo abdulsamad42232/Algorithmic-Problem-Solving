@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0011-container-with-most-water) |
+| [0036-valid-sudoku](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0219-contains-duplicate-ii) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/abdulsamad42232/Algorithmic-Problem-Solving/tree/master/0074-search-a-2d-matrix) |
 ## Linked List
 |  |
