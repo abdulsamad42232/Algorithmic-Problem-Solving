@@ -7,5 +7,5 @@ class Solution:
         # for num in nums:
         #     arr.append(num)
         # return(arr)            
-        arr=nums+nums
-        return(arr)
+        nums.extend(nums)
+        return(nums)
